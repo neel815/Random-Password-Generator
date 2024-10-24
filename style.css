@@ -210,9 +210,3 @@ h1{
     box-shadow: 0px 0px 20px 0px rgb(255, 160, 122);
     transition:all 100ms ease-in;
 }
-
-/* .slider::-webkit-slider-thumb:hover{
-    outline: 1px solid #FFB6C1;
-    background-color: #FFA07A;
-    box-shadow: 0px 0px 25px 5px rgb(255, 160, 122);
-} */
