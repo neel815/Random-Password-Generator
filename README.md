@@ -15,5 +15,4 @@ A simple and customizable password generator built with HTML, CSS, and JavaScrip
 - **CSS**: Styling for the layout, buttons, and dynamic visual feedback.
 - **JavaScript**: Logic for password generation, strength calculation, and clipboard functionality.
 
-## Project Structure
 
